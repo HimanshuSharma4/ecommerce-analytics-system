@@ -1,0 +1,12 @@
+# Python environment
+__pycache__/
+*.py[cod]
+
+# Database and raw data (Keep it local, don't push huge data or DBs)
+data/raw/*.csv
+data/cleaned/*.csv
+data/*.db
+
+# Sensitive local configurations (Never push passwords/creds to public repo)
+.env
+.local
