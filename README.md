@@ -13,7 +13,7 @@ The system is divided into 5 distinct phases:
 
 ## 📁 Repository Structure
 
-` ` `text
+```text
 ecommerce-analytics-system/
 │
 ├── data/                  # Local datasets (Ignored in version control)
@@ -33,7 +33,7 @@ ecommerce-analytics-system/
 │
 ├── .gitignore             # Security and environment exclusions
 └── README.md              # Project documentation
-` ` `
+```
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
